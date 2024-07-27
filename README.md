@@ -1,5 +1,15 @@
+![MasterHead](https://github.com/user-attachments/assets/e8681d0f-63af-4f2f-b294-df7878420e3d)
 <h1 align="center">Hi 👋, I'm Anushka Singh</h1>
+
+
 <h3 align="center">A passionate frontend developer from India.</h3>
+
+
+<img align="right" alt="cat" width="350" src="https://github.com/user-attachments/assets/5016d4bb-3fb3-432a-bbbb-deb2d3143843">
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka3110&label=Profile%20views&color=0e75b6&style=flat" alt="anushka3110" /> </p>
 
@@ -20,6 +30,7 @@
 <a href="https://twitter.com/iykykbrb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iykykbrb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anushka-singh-718bab228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka-singh-718bab228" height="30" width="40" /></a>
 <a href="https://fb.com/anushka singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anushka singh" height="30" width="40" /></a>
+<a href="https://instagram.com/__anu._sh._ka__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__anu._sh._ka__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
